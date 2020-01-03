@@ -49,7 +49,7 @@ services:
             - 8081:8080            
 ```
 
-### Dockerfiel
+### Dockerfile
 
 ```
 FROM php:7-fpm
