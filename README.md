@@ -2,10 +2,10 @@
 
 ## Components
 
-- PHP 7: Programming language
-- Nginx: Application server
-- Mariadb: Database engine
-- Docker: Container environment
+- PHP 7: programming language
+- Nginx: application server
+- Mariadb: database engine
+- Docker: container environment
 
 ## Docker compose
 
