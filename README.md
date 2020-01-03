@@ -48,6 +48,14 @@ services:
         ports:
             - 8081:8080            
 ```
+
+### Dockerfiel
+
+```
+FROM php:7-fpm
+RUN docker-php-ext-install mysqli pdo pdo_mysql
+```
+
 ## Edit the /etc/hosts file
 
 Add the next line
