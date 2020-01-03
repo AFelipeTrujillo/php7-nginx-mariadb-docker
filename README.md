@@ -48,7 +48,7 @@ services:
         ports:
             - 8081:8080            
 ```
-## Edit Hosts file
+## Edit the /etc/hosts file
 
 Add the next line
 
@@ -62,7 +62,7 @@ Add the next line
 2. Clone the repository ```git clone https://github.com/AFelipeTrujillo/php7-nginx-mariadb-docker.git```
 3. Enter to the folder ```cd php7-nginx-mariadb-docker```
 4. Run ```docker-compose up``` inside the folder project
-5. Go to http://php-docker.local/test_db.php
+5. Go to http://php-docker.local:8080/test_db.php
 
 ## How to chage the database credetials
 
